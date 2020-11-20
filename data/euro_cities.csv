@@ -1,0 +1,1075 @@
+﻿CITIES (Labels),2017,2018,2019
+Belgium,11351727,11398589,11455519
+Bruxelles / Brussel,1199095,1205492,1215289
+Antwerpen,520859,523591,526439
+Gent,259462,260329,262205
+Charleroi,201884,202341,202637
+Liège,383725,383710,383482
+Brugge,118393,118526,118569
+Namur,111111,111334,111239
+Leuven,99640,100524,101132
+Mons,95332,95369,95679
+Kortrijk,75849,76342,76814
+Oostende,71204,71451,71551
+Bulgaria,7101859,7050034,:
+Sofia,1236047,1238438,1241675
+Plovdiv,343424,345213,346893
+Varna,335177,335854,336505
+Burgas,202766,202694,202434
+Pleven,98467,97557,96610
+Ruse,144936,144125,142902
+Vidin,42801,42195,41583
+Stara Zagora,136781,136307,135715
+Sliven,87322,87063,86275
+Dobrich,85402,84502,83584
+Shumen,76967,75837,75500
+Pernik,74110,73638,73111
+Yambol,69542,68846,68074
+Haskovo,71686,71214,70406
+Pazardzhik,68963,68572,68194
+Blagoevgrad,69567,69417,69178
+Veliko Tarnovo,68478,68780,68859
+Vratsa,53570,53120,52617
+Czech Republic,10610055,:,:
+Praha,1294513,:,1324277
+Brno,379527,:,381346
+Ostrava,290450,:,287968
+Plzen,170936,:,174842
+Ústí nad Labem,93040,:,92716
+Olomouc,100494,:,100663
+Liberec,103979,:,104802
+Ceské Budejovice,93863,:,94463
+Hradec Králové,92917,:,92939
+Pardubice,90335,:,91727
+Zlín,74947,:,74935
+Kladno,68804,:,69337
+Karlovy Vary,48776,:,48479
+Jihlava,50724,:,51216
+Havírov,72382,:,71200
+Most,66644,:,66034
+Karviná,53522,:,52128
+Chomutov-Jirkov,68132,:,67876
+Denmark,:,:,:
+København,:,:,:
+Århus,:,:,:
+Odense,:,:,:
+Aalborg,:,:,:
+Germany,82521653,82792351,:
+Berlin,3574830,3613495,3644826
+Hamburg,1810438,1830584,1841179
+München,1464301,1456039,1471508
+Köln,1075935,1080394,1085664
+Frankfurt am Main,736414,746878,753056
+Essen,583084,583393,583109
+Stuttgart,628032,632743,634830
+Leipzig,571088,581980,587857
+Dresden,547172,551072,554649
+Dortmund,585813,586600,587010
+Düsseldorf,613230,617280,619294
+Bremen,565719,568006,569352
+Hannover,532864,535061,538068
+Nürnberg,511628,515201,518365
+Bochum,364920,365529,364628
+Bielefeld,333451,332552,333786
+Halle an der Saale,238005,239173,239257
+Magdeburg,238136,238478,238697
+Wiesbaden,277619,278654,278342
+Göttingen,119177,119529,119801
+Mülheim a.d.Ruhr,170936,171265,170880
+Moers,103881,103949,103725
+Darmstadt,157437,158254,159207
+Trier,110111,110013,110636
+Freiburg im Breisgau,227590,229636,230241
+Regensburg,148638,150894,152610
+Frankfurt (Oder),58193,58237,57873
+Weimar,64355,64426,65090
+Schwerin,95668,95797,95818
+Erfurt,211113,212988,213699
+Augsburg,289584,292851,295135
+Bonn,322125,325490,327258
+Karlsruhe,309999,311919,313092
+Mönchengladbach,260925,262188,261454
+Mainz,213528,215110,217118
+Kiel,247441,247943,247548
+Saarbrücken,179709,180966,180741
+Potsdam,171810,175710,178089
+Koblenz,113605,113844,114024
+Rostock,207513,208409,208886
+Kaiserslautern,99302,99684,99845
+Iserlohn,93197,92928,92666
+Esslingen am Neckar,92186,93004,93542
+Hanau,95370,96130,96023
+Wilhelmshaven,76201,76316,76278
+Ludwigsburg,93035,93593,93499
+Tübingen,88347,89447,90546
+Villingen-Schwenningen,84070,84557,85181
+Flensburg,87432,88519,89504
+Marburg,74675,76226,76851
+Konstanz,83789,84441,84760
+Neumünster,79680,79335,79487
+Brandenburg an der Havel,71664,71886,72124
+Gießen,86543,87343,88546
+Lüneburg,74494,75192,75351
+Bayreuth,73065,73999,74657
+Celle,69561,69706,69602
+Aschaffenburg,69187,69928,70527
+Bamberg,75743,77179,77592
+Plauen,65049,65148,64931
+Neubrandenburg,63794,64259,64086
+Fulda,67466,67973,68586
+Kempten (Allgäu),67529,68330,68907
+Landshut,70025,71193,72404
+Sindelfingen,64159,64599,64858
+Rosenheim,62672,63080,63324
+Frankenthal (Pfalz),48445,48417,48561
+Stralsund,59101,59517,59421
+Friedrichshafen,59611,60088,60865
+Offenburg,58736,59060,59646
+Görlitz,55904,56391,56324
+Sankt Augustin,56115,55873,55767
+Neu-Ulm,56978,57727,58707
+Schweinfurt,52724,53437,54032
+Greifswald,57985,58886,59382
+Wetzlar,52446,52828,52954
+Speyer,50551,50931,50378
+Passau,51074,51781,52469
+Dessau-Roßlau,82505,82111,81237
+Duisburg,499845,498110,498590
+Mannheim,304781,307997,309370
+Gelsenkirchen,262528,260305,260654
+Münster,311846,313559,314319
+Chemnitz,246353,246855,247237
+Braunschweig,248667,248023,248292
+Aachen,244951,246272,247380
+Krefeld,226812,226699,227020
+Oberhausen,211382,211422,210829
+Lübeck,216712,216318,217198
+Hagen,188266,187730,188814
+Kassel,199062,200736,201585
+Hamm,179571,179185,179111
+Herne,156774,156490,156374
+Solingen,158908,158803,159360
+Osnabrück,164070,164374,164748
+Ludwigshafen am Rhein,166621,168497,171061
+Leverkusen,163113,163577,163838
+Oldenburg (Oldenburg),165711,167081,168210
+Neuss,152882,153810,153796
+Heidelberg,159914,160601,160355
+Paderborn,148677,149075,150580
+Würzburg,126010,126635,127880
+Recklinghausen,114003,113360,112267
+Wolfsburg,123909,123914,124151
+Bremerhaven,113034,113026,113634
+Bottrop,117409,117364,117383
+Heilbronn,123771,125113,125960
+Remscheid,110611,110584,110994
+Offenbach am Main,124589,126658,128744
+Ulm,123953,125596,126329
+Pforzheim,123493,124289,125542
+Ingolstadt,133639,135244,136981
+Gera,94750,94859,94152
+Salzgitter,103668,104548,104948
+Reutlingen,115006,115762,115966
+Fürth,125403,126526,127748
+Cottbus,100416,101036,100219
+Siegen,101863,102337,102836
+Bergisch Gladbach,111341,111627,111966
+Hildesheim,101687,101744,101990
+Witten,96781,96565,96563
+Zwickau,90515,90192,89540
+Erlangen,110238,110998,111962
+Wuppertal,352390,353590,354382
+Jena,110321,111099,111407
+"Düren, Stadt",90066,90502,90733
+"Bocholt, Stadt",71350,71036,71099
+Estonia,1315635,1319133,:
+Tallinn,426538,430805,434562
+Tartu,93124,96506,96974
+Narva,57130,56103,55249
+Ireland,:,:,:
+Dublin,:,:,:
+Dublin (greater city),:,:,:
+Cork,:,:,:
+Limerick,:,:,:
+Galway,:,:,:
+Waterford,:,:,:
+Greece,:,:,:
+Athina,:,:,:
+Athina (greater city),:,:,:
+Thessaloniki,:,:,:
+Pátra,:,:,:
+Irakleio,:,:,:
+Larisa,:,:,:
+Volos,:,:,:
+Ioannina,:,:,:
+Kavala,:,:,:
+Kalamata,:,:,:
+Spain,46527039,46658447,:
+Madrid,3182981,3223334,3266126
+Madrid,4904291,4955432,5012504
+Barcelona,1620809,1620343,1636762
+Barcelona,3648483,3665687,3701270
+Valencia,787808,791413,794288
+Valencia,1386992,1393606,1403247
+Sevilla,689434,688711,688592
+Sevilla,879624,879870,880726
+Zaragoza,664938,666880,674997
+Málaga,569002,571026,574654
+Murcia,443243,447182,453258
+Las Palmas,377650,378517,379925
+Valladolid,299715,298866,298412
+Palma de Mallorca,406492,409661,416065
+Santiago de Compostela,96456,96405,97260
+Vitoria/Gasteiz,246976,249176,251774
+Oviedo,220301,220020,219686
+Pamplona/Iruña,197138,199066,201653
+Pamplona/Iruña,322739,326136,330281
+Santander,171951,172044,172539
+Toledo,83741,84282,84873
+Badajoz,150543,150530,150702
+Logroño,150979,151113,151136
+Bilbao,345110,345821,346843
+Bilbao,790423,791054,792617
+Córdoba,325916,325708,325701
+Alicante/Alacant,329988,331577,334887
+Vigo,292986,293642,295364
+Gijón,272365,271843,271780
+L'Hospitalet de Llobregat,257349,261068,264923
+Santa Cruz de Tenerife,203692,204856,207312
+Santa Cruz de Tenerife,357347,360405,364815
+A Coruña,244099,244850,245711
+Barakaldo,100313,100435,100881
+Reus,103123,103477,104373
+Telde,102005,102424,102647
+Parla,125898,128256,130124
+Lugo,97995,98025,98276
+San Fernando,95643,95174,94979
+Girona,99013,100266,101852
+Cáceres,95917,96068,96126
+Torrevieja,83252,82599,83337
+Pozuelo de Alarcón,85605,86172,86422
+"Puerto de Santa María, El",88430,88364,88405
+Coslada,83011,81860,81661
+Avilés,79514,78715,78182
+Talavera de la Reina,83303,83009,83417
+Palencia,78892,78629,78412
+Sant Boi de Llobregat,82142,82904,83605
+Ferrol,67569,66799,66065
+Pontevedra,82671,82802,83029
+Ceuta,84959,85144,84777
+Gandia,74121,73829,74562
+"Rozas de Madrid, Las",95071,95550,95814
+Guadalajara,84145,84910,85871
+Sant Cugat del Vallès,89516,90664,91006
+Manresa,75152,76250,77714
+Getxo,78406,78276,77946
+Rubí,75568,76423,77464
+Ciudad Real,74641,74743,74746
+Benidorm,66831,67558,68721
+Melilla,86120,86384,86487
+Viladecans,65993,66168,66611
+Ponferrada,65788,65239,64674
+San Sebastián de los Reyes,86707,87724,89276
+Zamora,62389,61827,61406
+Fuengirola,74929,75396,80309
+Cerdanyola del Vallès,57723,57740,57403
+Sanlúcar de Barrameda,67640,68037,68684
+Vilanova i la Geltrú,66077,66274,67086
+"Prat de Llobregat, El",63897,64132,64599
+"Línea de la Concepción, La",63146,62940,63147
+Cornellà de Llobregat,86610,87173,88592
+Majadahonda,71299,71785,71826
+Torremolinos,67701,68262,68661
+Castelldefels,65954,66375,67004
+Irun,61855,61983,62401
+Granollers,60695,60981,61275
+Arrecife,59771,61351,62988
+Elda,52620,52404,52618
+Elda,87153,86883,86894
+Santa Lucía de Tirajana,70396,71863,73328
+Mollet del Vallès,51128,51133,51318
+Granada,232770,232208,232462
+Granada,398847,399456,401574
+Badalona,215848,217741,220440
+Móstoles,206589,207095,209184
+Elche/Elx,228675,230625,232517
+Cartagena,214177,213943,214802
+Sabadell,209931,211734,213644
+Jerez de la Frontera,212915,212879,212749
+Fuenlabrada,194669,193586,193700
+San Sebastián/Donostia,186370,186665,187415
+Alcalá de Henares,194310,193751,195649
+Terrassa,216428,218535,220556
+Leganés,187720,188425,189861
+Almería,195389,196851,198533
+Burgos,175623,175921,175821
+Salamanca,144436,143978,144228
+Alcorcón,168141,169502,170514
+Getafe,178288,180747,183374
+Albacete,172816,173050,173329
+Castellón de la Plana/Castelló de la Plana,169498,170888,171728
+Huelva,145115,144258,143663
+Cádiz,118048,116979,116027
+León,125317,124772,124303
+San Cristóbal de la Laguna,153655,155549,157503
+Tarragona,131507,132299,134515
+Santa Coloma de Gramenet,117597,118821,119215
+Jaén,114238,113457,112999
+Lleida,137327,137856,138956
+Ourense,105636,105505,105233
+Mataró,126127,126988,128265
+Dos Hermanas,132551,133168,133968
+Algeciras,121133,121414,121957
+Marbella,141172,141463,143386
+Torrejón de Ardoz,128013,129729,131376
+Alcobendas,114864,116037,117040
+Alcalá de Guadaíra,75106,75256,75279
+Alcoy,59106,58977,58994
+Ávila,58149,57657,57744
+Benalmádena,68859,67746,68128
+Chiclana de la Frontera,83148,83831,84489
+Collado Villalba,62152,63074,63679
+Cuenca,54876,54898,54690
+Eivissa,49689,49727,49783
+Linares,58449,57811,57414
+Lorca,92299,93079,94404
+Mérida,59187,59352,59335
+Sagunto,65278,65669,66140
+Torrelavega,52034,51687,51494
+Valdemoro,73976,74745,75983
+Puerto de la Cruz,30036,30483,30468
+Puerto de la Cruz,66254,66888,66870
+Paterna,68547,69156,70195
+Igualada,39316,39540,39967
+Igualada,61396,61775,62405
+Torrent,80630,81245,82208
+Mislata,43042,43278,43691
+Rivas-Vaciamadrid,83767,85893,88150
+Santurtzi,45765,45795,45853
+Esplugues de Llobregat,45890,46355,46680
+San Vicente del Raspeig/Sant Vicent del Raspeig,57175,57785,58385
+France,66524339,:,:
+Paris,9845879,:,:
+Paris (greater city),:,:,:
+Lyon,1076752,:,:
+Toulouse,613199,:,:
+Strasbourg,405733,:,:
+Bordeaux,650138,:,:
+Nantes,450218,:,:
+Lille,906981,:,:
+Montpellier,305601,:,:
+Saint-Etienne,194561,:,:
+Le Havre,195042,:,:
+Rennes,216815,:,:
+Amiens,137609,:,:
+Nancy,203610,:,:
+Metz,166252,:,:
+Reims,209507,:,:
+Orléans,208564,:,:
+Dijon,198870,:,:
+Poitiers,98314,:,:
+Clermont-Ferrand,195162,:,:
+Caen,144972,:,:
+Limoges,143147,:,:
+Besançon,115934,:,:
+Grenoble,305569,:,:
+Ajaccio,:,:,:
+Saint Denis,147931,:,:
+Fort-de-France,100038,:,:
+Toulon,334333,:,:
+Valenciennes,103476,:,:
+Tours,242529,:,:
+Angers,180297,:,:
+Brest,140064,:,:
+Le Mans,150369,:,:
+Avignon,109451,:,:
+Mulhouse,180040,:,:
+Dunkerque,135715,:,:
+Perpignan,130264,:,:
+Nîmes,150610,:,:
+Pau,110402,:,:
+Bayonne,115561,:,:
+Annemasse,61518,:,:
+Annecy,126924,:,:
+Lorient,79877,:,:
+Montbéliard,:,:,:
+Troyes,106948,:,:
+Saint-Nazaire,69993,:,:
+La Rochelle,82783,:,:
+Angoulême,:,:,:
+Boulogne-sur-Mer,74740,:,:
+Chambéry,87711,:,:
+Chalon-sur-Saône,:,:,:
+Chartres,75990,:,:
+Niort,:,:,:
+Calais,73911,:,:
+Béziers,77177,:,:
+Arras,69335,:,:
+Bourges,64551,:,:
+Saint-Brieuc,64350,:,:
+Quimper,:,:,:
+Vannes,:,:,:
+Cherbourg,79200,:,:
+Tarbes,:,:,:
+Compiègne,:,:,:
+Belfort,62945,:,:
+Roanne,45140,:,:
+Saint-Quentin,53816,:,:
+Beauvais,:,:,:
+Creil,75375,:,:
+Evreux,:,:,:
+Châteauroux,:,:,:
+Brive-la-Gaillarde,:,:,:
+Albi,:,:,:
+Fréjus,87714,:,:
+Châlons-en-Champagne,:,:,:
+Aubagne,:,:,:
+Aix-en-Provence,142482,:,:
+Marseille,895431,:,:
+Nice,670215,:,:
+CA de Sophia-Antipolis,:,:,:
+Lens - Liévin,179787,:,:
+Hénin - Carvin,:,:,:
+Douai,86074,:,:
+Marne la Vallée,:,:,:
+Versailles,:,:,:
+CC de la Boucle de la Seine,:,:,:
+Sénart en Essonne,:,:,:
+Valence,94650,:,:
+Rouen,309039,:,:
+CA Marne et Chantereine,:,:,:
+CA des deux Rives de la Seine,:,:,:
+CC des Coteaux de la Seine,:,:,:
+CA Europ' Essonne,:,:,:
+CA Brie Francilienne,:,:,:
+CA les Portes de l'Essonne,:,:,:
+CA Val et Forêt,:,:,:
+CC de l'Ouest de la Plaine de France,:,:,:
+CA le Parisis,:,:,:
+Melun,85038,:,:
+Meaux,64643,:,:
+Mantes en Yvelines,87601,:,:
+Evry,:,:,:
+CA du Plateau de Saclay,:,:,:
+CA de Seine Essonne,:,:,:
+CA du Val d'Orge,:,:,:
+CA du Val d'Yerres,:,:,:
+CA Sénart - Val de Seine,:,:,:
+CA Val de France,:,:,:
+CA de la Vallée de Montmorency,:,:,:
+Martigues,64704,:,:
+Argenteuil - Bezons,:,:,:
+Cergy-Pontoise,:,:,:
+Charleville-Mézières,:,:,:
+Colmar,69105,:,:
+CA des Lacs de l'Essonne,:,:,:
+Saint-Quentin en Yvelines,:,:,:
+Cannes,:,:,:
+Zagreb,802701,804049,805413
+Rijeka,120250,118549,116872
+Slavonski Brod,55759,54767,53793
+Osijek,105236,104556,103880
+Split,171894,170687,169489
+Pula - Pola,56404,56269,56134
+Zadar,75155,74965,74775
+Italy,60589445,60483973,60359546
+Roma,2873494,2872800,2856133
+Milano,1351562,1366180,1378689
+Milano (greater city),4087060,4106356,3609333
+Napoli,970185,966144,959188
+Napoli (greater city),3107006,3101002,2900973
+Torino,886837,882523,875698
+Palermo,673735,668405,663401
+Genova,583601,580097,578000
+Firenze,382258,380948,378839
+Bari,324198,323370,320862
+Bologna,388367,389261,390636
+Catania,313396,311620,311584
+Venezia,261905,261321,260520
+Verona,257353,257275,257993
+Cremona,71924,72077,72680
+Trento,117417,117997,118288
+Trieste,204234,204338,204267
+Perugia,166676,165683,165956
+Ancona,100696,100924,101043
+Pescara,120420,119217,119297
+Campobasso,49320,49262,49049
+Caserta,76126,75561,75430
+Taranto,199561,198283,196702
+Potenza,67168,67211,66769
+Catanzaro,90240,89718,89065
+Reggio di Calabria,182551,181447,180369
+Sassari,127533,126769,126870
+Cagliari,154083,154106,154267
+Padova,209829,210440,210912
+Brescia,196670,196745,198536
+Modena,184727,185273,186307
+Foggia,151726,151372,151203
+Salerno,134850,133970,133364
+Piacenza,102355,103082,103942
+Bolzano,106951,107317,107739
+Udine,99341,99518,99377
+La Spezia,93678,93311,93229
+Lecce,94989,95441,95269
+Barletta,94673,94477,94564
+Pesaro,94813,94958,94969
+Como,84326,83320,82522
+Pisa,90488,90118,88880
+Treviso,83950,84954,84999
+Varese,80694,80544,80559
+Busto Arsizio,83340,83405,83628
+Asti,76164,76211,76026
+Pavia,72612,72773,73086
+Massa,69226,69037,68889
+Cosenza,67563,67239,67270
+Savona,61057,60632,60442
+Matera,60351,60403,60404
+Acireale,52574,52269,52065
+Avellino,54561,54353,54027
+Pordenone,51139,51127,51367
+Lecco,48131,48177,48333
+Altamura,70595,70514,70667
+Bitonto,55354,55127,54626
+Molfetta,59623,59470,59291
+Battipaglia,50883,51005,51055
+Bisceglie,55390,55385,55251
+Carpi,71060,71148,71836
+Cerignola,58517,58540,58635
+Gallarate,53145,53425,53339
+Gela,75458,74858,73854
+Saronno,39351,39419,39415
+Bagheria,55373,55047,54714
+Anzio,54311,54710,55101
+Sassuolo,40813,40826,40918
+Messina,236962,234293,232555
+Prato,192469,193325,194590
+Parma,194417,195687,196518
+Livorno,158916,158371,157783
+Reggio nell'Emilia,171491,171944,171999
+Ravenna,159057,159115,157663
+Ferrara,132009,132278,132052
+Rimini,148908,149403,150576
+Siracusa,122031,121605,121171
+Monza,122955,123598,123397
+Bergamo,120287,120923,121639
+Forlì,117946,117863,117798
+Latina,126151,126470,126746
+Vicenza,112198,111620,110790
+Terni,111455,111189,110749
+Novara,104284,104183,104279
+Giugliano in Campania,123839,124361,123490
+Alessandria,93839,93980,93631
+Arezzo,99469,99419,99179
+Grosseto,82143,82036,82353
+Brindisi,87820,87141,86812
+Trapani,68528,67923,67531
+Ragusa,73500,73638,73373
+Andria,100331,99857,99671
+Trani,56076,56031,55851
+L'Aquila,69605,69439,69478
+Cyprus,:,:,:
+Lefkosia,:,:,:
+Latvia,1950116,1934379,:
+Riga,641201,632479,626147
+Liepaja,69406,68912,68569
+Jelgava,56702,55960,55415
+Daugavpils,84288,82879,82029
+Lithuania,2847904,2808901,:
+Vilnius,545280,547484,552131
+Kaunas,292691,288363,286754
+Panevezys,91054,88678,87139
+Alytus,52792,51534,50422
+Klaipeda,151309,148908,147892
+Siauliai,101214,100575,100131
+Luxembourg (Grand Duchy),:,:,:
+Luxembourg,:,:,:
+Hungary,9797561,9778371,:
+Budapest,1752704,1749734,1752286
+Miskolc,157177,155650,154521
+Nyíregyháza,117689,117121,116799
+Pécs,144675,144188,142873
+Debrecen,201981,202214,201432
+Szeged,161137,161122,160766
+Gyõr,129301,130094,132038
+Kecskemét,110813,110638,110687
+Székesfehérvár,97617,97382,96940
+Szombathely,78025,77984,78407
+Szolnok,71765,71521,71285
+Tatabánya,65849,65633,65845
+Veszprém,59919,59754,59738
+Békéscsaba,59732,59357,58996
+Kaposvár,62446,61920,61441
+Eger,53876,53436,52898
+Dunaújváros,44640,44358,44200
+Zalaegerszeg,58154,57780,57403
+Sopron,62246,62454,62671
+Malta,460297,475701,:
+Valletta,224437,233246,243083
+Netherlands,:,:,:
+Greater 's-Gravenhage,:,:,:
+Greater Amsterdam,:,:,:
+Greater Rotterdam,:,:,:
+Greater Utrecht,:,:,:
+Greater Eindhoven,:,:,:
+Tilburg,:,:,:
+Groningen,:,:,:
+Enschede,:,:,:
+Greater Arnhem,:,:,:
+Greater Heerlen,:,:,:
+Almere,:,:,:
+Breda,:,:,:
+Nijmegen,:,:,:
+Apeldoorn,:,:,:
+Leeuwarden,:,:,:
+Greater Sittard-Geleen,:,:,:
+Hilversum,:,:,:
+Roosendaal,:,:,:
+Greater Nissewaard,:,:,:
+Purmerend,:,:,:
+Alphen aan den Rijn,:,:,:
+Bergen op Zoom,:,:,:
+Gouda,:,:,:
+Hoorn,:,:,:
+Greater Middelburg,:,:,:
+Greater Haarlem,:,:,:
+Zaanstad,:,:,:
+'s-Hertogenbosch,:,:,:
+Amersfoort,:,:,:
+Maastricht,:,:,:
+Greater Leiden,:,:,:
+Haarlemmermeer,:,:,:
+Zoetermeer,:,:,:
+Zwolle,:,:,:
+Greater Ede,:,:,:
+Deventer,:,:,:
+Greater Alkmaar,:,:,:
+Venlo,:,:,:
+Helmond,:,:,:
+Hengelo,:,:,:
+Almelo,:,:,:
+Lelystad,:,:,:
+Oss,:,:,:
+Assen,:,:,:
+Veenendaal,:,:,:
+Greater Heemskerk,:,:,:
+Greater Soest,:,:,:
+Austria,:,:,:
+Wien,:,:,:
+Graz,:,:,:
+Linz,:,:,:
+Salzburg,:,:,:
+Innsbruck,:,:,:
+Klagenfurt,:,:,:
+Poland,:,:,:
+Warszawa,:,:,1790658.00
+Lódz,:,:,:
+Kraków,:,:,766683.00
+Wroclaw,:,:,:
+Poznan,:,:,:
+Gdansk,:,:,582205.00
+Szczecin,:,:,:
+Bydgoszcz,:,:,:
+Lublin,:,:,:
+Katowice,:,:,:
+Górnoslaski Zwiazek Metropolitalny,:,:,:
+Bialystok,:,:,:
+Kielce,:,:,:
+Torun,:,:,:
+Olsztyn,:,:,:
+Rzeszów,:,:,:
+Opole,:,:,:
+Gorzów Wielkopolski,:,:,:
+Zielona Góra,:,:,:
+Jelenia Góra,:,:,:
+Nowy Sacz,:,:,:
+Suwalki,:,:,:
+Konin,:,:,:
+Zory,:,:,:
+Czestochowa,:,:,:
+Radom,:,:,:
+Plock,:,:,:
+Kalisz,:,:,:
+Koszalin,:,:,:
+Slupsk,:,:,:
+Jastrzebie-Zdrój,:,:,:
+Siedlce,:,:,:
+Piotrków Trybunalski,:,:,:
+Lubin,:,:,:
+Pila,:,:,:
+Inowroclaw,:,:,:
+Ostrowiec Swietokrzyski,:,:,:
+Gniezno,:,:,:
+Stargard Szczecinski,:,:,:
+Ostrów Wielkopolski,:,:,:
+Przemysl,:,:,:
+Zamosc,:,:,:
+Chelm,:,:,:
+Pabianice,:,:,:
+Glogów,:,:,:
+Stalowa Wola,:,:,:
+Tomaszów Mazowiecki,:,:,:
+Lomza,:,:,:
+Leszno,:,:,:
+Swidnica,:,:,:
+Zgierz,:,:,:
+Tczew,:,:,:
+Elk,:,:,:
+Gdynia,:,:,:
+Sosnowiec,:,:,:
+Gliwice,:,:,:
+Zabrze,:,:,:
+Bytom,:,:,:
+Bielsko-Biala,:,:,:
+Ruda Slaska,:,:,:
+Rybnik,:,:,:
+Tychy,:,:,:
+Walbrzych,:,:,:
+Elblag,:,:,:
+Wloclawek,:,:,:
+Tarnów,:,:,:
+Chorzów,:,:,:
+Legnica,:,:,:
+Grudziadz,:,:,:
+Portugal,10309573,10291027,10276617
+Lisboa,504964,506088,507220
+Lisboa (greater city),1842352,1851077,1859838
+Porto,214119,214587,215284
+Porto (greater city),948613,949694,951805
+Braga,181182,181382,181919
+Funchal,104813,104442,104129
+Coimbra,134348,134156,133724
+Setúbal,116979,116330,115758
+Ponta Delgada,68352,68055,67864
+Aveiro,77241,77630,77916
+Faro,61073,60920,60974
+Seixal,165123,165971,166835
+Amadora,178169,179942,181724
+Almada,169330,169152,168987
+Odivelas,156083,157829,159602
+Viseu,97849,97423,96991
+Valongo,95411,95908,96570
+Viana do Castelo,85445,85017,84636
+Paredes,86263,86115,86072
+Barreiro,75978,75715,75419
+Póvoa de Varzim,62344,62376,62510
+Sintra,383946,386038,388434
+Vila Nova de Gaia,300001,299820,299938
+Matosinhos,173339,173753,174382
+Gondomar,165743,165626,165631
+Guimarães,153995,153294,152792
+Vila Franca de Xira,140844,141227,141603
+Romania,22193562,22170586,:
+Bucuresti,2112483,2131034,:
+Cluj-Napoca,323484,324960,:
+Timisoara,330014,328186,:
+Craiova,302783,301269,:
+Braila,205172,202740,:
+Oradea,221796,221407,:
+Bacau,197285,197155,:
+Arad,177464,176846,:
+Sibiu,169177,168697,:
+Târgu Mures,148490,147674,:
+Piatra Neamt,113396,112786,:
+Calarasi,76380,75810,:
+Giurgiu,67721,67121,:
+Alba Iulia,74574,74659,:
+Focsani,92936,92205,:
+Târgu Jiu,95869,95351,:
+Tulcea,87698,86520,:
+Târgoviste,92090,91884,:
+Slatina,83389,82931,:
+Bârlad,71431,70680,:
+Roman,69479,69229,:
+Bistrita,93950,94139,:
+Constanta,314816,313021,:
+Iasi,373507,378954,:
+Galati,303069,304050,:
+Brasov,289878,289360,:
+Ploiesti,229641,227445,:
+Pitesti,175047,173985,:
+Baia Mare,146241,145444,:
+Buzau,133376,132288,:
+Satu Mare,120736,119788,:
+Botosani,120902,120153,:
+Râmnicu Vâlcea,118111,117776,:
+Suceava,122231,124589,:
+Drobeta-Turnu Severin,107614,106707,:
+Slovenia,2065895,2066880,:
+Ljubljana,288919,289518,:
+Maribor,111079,110871,:
+Slovakia,5435343,5443120,5450421
+Bratislava,425923,429564,432864
+Kosice,239141,239095,238757
+Banská Bystrica,78635,78484,78327
+Nitra,77374,77048,76655
+Presov,89618,89138,88680
+Zilina,81041,80978,80810
+Trnava,65536,65382,65207
+Trencín,55593,55537,55333
+Finland,5503297,5513130,:
+Helsinki / Helsingfors,635181,643272,648042
+Helsinki / Helsingfors (greater city),1138502,1154967,:
+Tampere / Tammerfors,228274,231853,235239
+Turku / Åbo,187604,189669,191331
+Oulu,200526,201810,203567
+Espoo / Esbo,274583,279044,283632
+Vantaa / Vanda,219341,223027,228166
+Lahti / Lahtis,119452,119573,119951
+Kuopio,117740,118209,118664
+Jyväskylä,138850,140188,141305
+Sweden,9995153,10120242,:
+Stockholm,935619,949761,:
+Stockholm (greater city),1716807,1745766,:
+Göteborg,556640,564039,:
+Malmö,328494,333633,:
+Jönköping,135297,137481,:
+Umeå,122892,125080,:
+Uppsala,214559,219914,:
+Linköping,155817,158520,:
+Örebro,146631,150291,:
+Västerås,147420,150134,:
+Norrköping,139363,140927,:
+Helsingborg,140547,143304,:
+Lund,118542,121274,:
+Borås,109880,111026,:
+United Kingdom,65844142,:,:
+London (greater city),8797330,8866541,:
+Birmingham,1132600,1139249,:
+West Midlands urban area,2527245,2543414,:
+Leeds,782967,787020,:
+Glasgow City,618045,623715,:
+Greater Glasgow,996545,1004220,:
+Bradford,533670,535987,:
+Liverpool,489577,493182,:
+Liverpool,1413990,1419945,:
+City of Edinburgh,510190,515855,:
+Manchester,543410,546564,:
+Greater Manchester,2789822,2805684,:
+Cardiff,361962,363502,:
+Sheffield,575920,580148,:
+Bristol,457609,461329,:
+Belfast,339900,341049,:
+Greater Belfast,481811,484559,:
+Newcastle upon Tyne,294778,298019,:
+Tyneside conurbation,850700,855622,:
+Leicester,351527,354379,:
+Leicester (greater city),506309,511124,:
+Aberdeen City,229320,228180,:
+Cambridge,124777,125339,:
+Exeter,128219,129672,:
+Lincoln,97912,98739,:
+Gravesham,106168,106253,:
+Stevenage,87512,87747,:
+Wrexham,135490,135849,:
+Portsmouth,214027,214926,:
+Portsmouth (greater city),540024,542040,:
+Worcester,102121,102103,:
+Coventry,356682,363467,:
+Kingston-upon-Hull,260354,260659,:
+Stoke-on-trent,254519,255606,:
+Stoke-on-trent,383063,384832,:
+Wolverhampton,258972,260967,:
+Nottingham,326994,330139,:
+Greater Nottingham,671930,677425,:
+Wirral,322506,323016,:
+Bath and North East Somerset,187812,190392,:
+Thurrock,169411,171460,:
+Guildford,147311,147833,:
+Thanet,141083,141578,:
+Nuneaton and Bedworth,128167,128781,:
+Waveney,117532,118104,:
+Tunbridge Wells,117709,118058,:
+Ashford,126699,128404,:
+East Staffordshire,117245,118063,:
+Darlington,106337,106457,:
+Worthing,109439,109829,:
+Mansfield,108228,108709,:
+Chesterfield,104553,104604,:
+Burnley,87601,88116,:
+Great Yarmouth,99205,99394,:
+Woking,101275,101148,:
+Hartlepool,92932,93131,:
+Cannock Chase,98820,99618,:
+Eastbourne,103127,103206,:
+Hastings,92858,92834,:
+Hyndburn,80401,80613,:
+Redditch,85146,85097,:
+Tamworth,76769,76603,:
+Harlow,86029,86393,:
+Halton,127451,128014,:
+City of London,7450,8180,:
+Barking and Dagenham,209447,211355,:
+Barnet,386289,389972,:
+Bexley,245610,246691,:
+Brent,327765,329949,:
+Bromley,328486,330244,:
+Camden,251262,257794,:
+Croydon,384069,385092,:
+Ealing,343769,342359,:
+Enfield,332416,333287,:
+Greenwich,280994,284518,:
+Hackney,274584,277797,:
+Hammersmith and Fulham,182391,184212,:
+Haringey,271651,270924,:
+Harrow,248789,249515,:
+Havering,254705,256925,:
+Hillingdon,301121,303584,:
+Hounslow,268685,269941,:
+Islington,233528,237071,:
+Kensington and Chelsea,156257,155969,:
+Kingston upon Thames,174156,175040,:
+Lambeth,323556,324983,:
+Lewisham,300105,302422,:
+Merton,206379,206119,:
+Newham,346265,350001,:
+Redbridge,301557,302822,:
+Richmond upon Thames,195434,196292,:
+Southwark,312944,315744,:
+Sutton,202594,203884,:
+Tower Hamlets,304454,312835,:
+Waltham Forest,274864,276103,:
+Wandsworth,322377,324866,:
+Westminster,243385,250060,:
+Kirklees,436191,437936,:
+North Lanarkshire (Airdrie/Bellshill/Coatbridge/Motherwell),339675,340070,:
+Wakefield,338942,342914,:
+Dudley,318489,320023,:
+Wigan,324088,325369,:
+Doncaster,308157,309741,:
+Stockport,290433,291410,:
+Sefton,274721,274993,:
+Sandwell,324046,326419,:
+Sunderland,277278,277333,:
+Bolton,284175,285093,:
+Walsall,280090,282336,:
+Medway,277287,277736,:
+Rotherham,262759,264023,:
+Brighton and Hove,287664,289275,:
+Brighton and Hove,351335,353070,:
+Plymouth,262713,263085,:
+Swansea,244971,245973,:
+Derby,256619,257104,:
+Barnsley,242594,244270,:
+Southampton,251368,252578,:
+Southampton,381390,383736,:
+Oldham,233054,234691,:
+Salford,249727,252870,:
+Tameside,223614,224658,:
+Trafford,234852,235932,:
+Milton Keynes,266881,268064,:
+Rochdale,217405,219230,:
+Solihull,213050,214421,:
+Northampton,225078,225401,:
+North Tyneside,204024,205229,:
+Gateshead,202524,202464,:
+Warrington,209339,209626,:
+Luton,215286,214384,:
+York,207542,209028,:
+Bury,189066,189868,:
+Swindon,219472,221180,:
+Stockton-on-Tees,196223,196850,:
+St. Helens,178906,179690,:
+Basildon,184124,185171,:
+Bournemouth,194203,194554,:
+Bournemouth,345193,345887,:
+Wycombe,175061,174700,:
+Southend-on-Sea,181207,182136,:
+Southend-on-Sea (greater city),270990,272078,:
+Telford and Wrekin,174748,176784,:
+North East Lincolnshire,159827,159824,:
+Chelmsford,175196,176637,:
+Peterborough,197825,199978,:
+Colchester,188866,191311,:
+South Tyneside,149375,149910,:
+Basingstoke and Deane,175282,175533,:
+Bedford,169363,170768,:
+Dundee City,148490,148730,:
+Falkirk,159755,160235,:
+Reading,162888,163139,:
+Reading (greater city),326922,329619,:
+Blackpool,139927,139588,:
+Blackpool,250141,250412,:
+Maidstone,166725,168843,:
+Poole,150991,151334,:
+Dacorum,152881,153798,:
+Blackburn with Darwen,148617,148857,:
+Newport,150482,152394,:
+Middlesbrough,140483,140592,:
+Oxford,154937,154455,:
+Torbay,134827,135514,:
+Preston,141185,141582,:
+Preston (greater city),251453,252046,:
+St Albans,147060,147234,:
+Warwick,139885,141383,:
+Newcastle-under-Lyme,128545,129227,:
+Norwich,140109,140745,:
+Slough,148252,148940,:
+Cheshire West and Chester,336855,339244,:
+Ipswich,138498,138006,:
+Cheltenham,117173,117109,:
+Gloucester,128719,129184,:
+Bracknell Forest,120054,121027,:
+Carlisle,108331,108331,:
+Crawley,111605,112056,:
+Watford,96626,96721,:
+Gosport,85501,85396,:
+Eastleigh,130022,131159,:
+Rushmoor,95954,95480,:
+Rushmoor,184689,184299,:
+Rugby,105821,106772,:
+Corby,68918,70184,:
+Kettering,99600,100759,:
+Inverclyde (Greenock),78960,78455,:
+Renfrewshire (Paisley),176380,177310,:
+Derry & Strabane Local Government District,150320,150588,:
+Turkey,:,:,:
+Ankara,:,:,:
+Adana,:,:,:
+Antalya,:,:,:
+Balikesir,:,:,:
+Bursa,:,:,:
+Denizli,:,:,:
+Diyarbakir,:,:,:
+Edirne,:,:,:
+Erzurum,:,:,:
+Gaziantep,:,:,:
+Hatay,:,:,:
+Istanbul,:,:,:
+Izmir,:,:,:
+Kars,:,:,:
+Kastamonu,:,:,:
+Kayseri,:,:,:
+Kocaeli,:,:,:
+Konya,:,:,:
+Malatya,:,:,:
+Manisa,:,:,:
+Nevsehir,:,:,:
+Samsun,:,:,:
+Siirt,:,:,:
+Trabzon,:,:,:
+Van,:,:,:
+Zonguldak,:,:,:
+Norge,:,:,:
+Oslo,:,:,:
+Bergen,:,:,:
+Trondheim,:,:,:
+Stavanger,:,:,:
+Kristiansand,:,:,:
+Tromsø,:,:,:
+Schweiz/Suisse,:,:,:
+Zürich,402762,409241,:
+Zürich (greater city),668341,677118,:
+Genève,198979,200548,:
+Genève (greater city),402866,407605,:
+Basel,171017,171513,:
+Basel (greater city),341193,342698,:
+Bern,133115,133798,:
+Bern (greater city),226241,227924,:
+Lausanne,137810,138905,:
+Lausanne (greater city),248302,250937,:
+Winterthur,109775,110912,:
+St. Gallen,75481,75522,:
+Luzern,81592,81401,:
+Luzern (greater city),160244,160566,:
+Lugano,63932,63494,:
+Lugano (greater city),88940,88484,:
